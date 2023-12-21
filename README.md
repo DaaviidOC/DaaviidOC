@@ -54,8 +54,8 @@
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=daaviidoc&show_icons=true&locale=en" alt="Estadísticas de GitHub" style="max-width: 45%; margin-right: 10px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daaviidoc" alt="Contribuciones de GitHub" style="max-width: 45%; margin-left: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=daaviidoc&show_icons=true&locale=en" alt="Estadísticas de GitHub" style="max-width: 35%; margin-right: 8px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daaviidoc" alt="Contribuciones de GitHub" style="max-width: 35%; margin-left: 8px;" />
   </div>
 </p>
 
