@@ -53,10 +53,10 @@
 </p>
 
 <p align="center">
-  <table align="center" style="border:none; margin-left: auto; margin-right: auto;">
+  <table align="center" style="border-collapse: collapse; border: none;" cellpadding="0" cellspacing="0">
     <tr>
-      <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api?username=daaviidoc&show_icons=true&locale=en" alt="Estadísticas de GitHub" width="400" /></td>
-      <td style="border:none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daaviidoc" alt="Contribuciones de GitHub" width="400" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=daaviidoc&show_icons=true&locale=en" alt="Estadísticas de GitHub" width="400" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=daaviidoc" alt="Contribuciones de GitHub" width="400" /></td>
     </tr>
   </table>
 </p>
