@@ -53,7 +53,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daaviidoc&show_icons=true&locale=en" alt="Estadísticas de GitHub" width="495" height="195" />&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=daaviidoc" alt="Contribuciones de GitHub" width="495" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daaviidoc&show_icons=true&locale=en" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daaviidoc" height="150" />
 </p>
 
 <h3 align="center">Random Dev Quotes</h3>
