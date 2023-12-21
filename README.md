@@ -53,12 +53,7 @@
 </p>
 
 <p align="center">
-  <table align="center" style="border-collapse: collapse; border: none;" cellpadding="0" cellspacing="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=daaviidoc&show_icons=true&locale=en" alt="Estadísticas de GitHub" width="400" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=daaviidoc" alt="Contribuciones de GitHub" width="400" /></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=daaviidoc&show_icons=true&locale=en" alt="Estadísticas de GitHub" width="400" />&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=daaviidoc" alt="Contribuciones de GitHub" width="400" />
 </p>
 
 <h3 align="center">Random Dev Quotes</h3>
