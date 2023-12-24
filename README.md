@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Oficial Cardo</h1>
 <h3 align="center">A passionate data analyst from Spain</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=daaviidoc" alt="daaviidoc" />
-  </a>
-</p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/davidofca" target="blank">
@@ -50,13 +44,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daaviidoc&show_icons=true&locale=en" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daaviidoc" height="150" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=daaviidoc" alt="daaviidoc" />
+  </a>
 </p>
 
-<h3 align="center">Random Dev Quotes</h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daaviidoc&show_icons=true&locale=en" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daaviidoc" height="150" />
 </p>
 
 <p align="center">
