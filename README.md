@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm David Oficial Cardo</h1>
-<h3 align="center">A passionate data analyst from Spain</h3>
+<h3>A passionate data analyst from Spain</h3>
 
+- 🌱 I’m currently learning **Data Analysis and Data Science at [Upgrade Hub](https://www.upgrade-hub.com/)**
+
+- 📫 How to reach me: **doficar91@gmail.com**
+
+- ⚡ Fun fact **I'm a data science enthusiast who sees patterns even in my coffee! Did you know the first-ever computer bug was a moth trapped in a relay in 1947? This incident amusingly redefined 'debugging' in the world of programming and data analysis.**
+</br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/davidofca" target="blank">
